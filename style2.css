@@ -1,7 +1,7 @@
 
 
 body{
-	background-color: #009fff !important;
+	background-color: #ffffff !important;
 	font-family: 'Roboto Mono', serif ;
 	font-size: 16px;
 	background: url(Mumbai-Night-Skyscrapers-Wallpaper.jpg) no-repeat center center fixed; 
@@ -14,6 +14,7 @@ body{
 padding-left: 5%;
 padding-right: 5%;
 padding-bottom:5%;
+color: white;
 
 }
 
@@ -35,10 +36,22 @@ img{
 	text-align: center;
 	text-decoration: none;
 	color: red; 
+	color: white;
 }
 
 #email{
 	text-align: center;
+	font-size: 14px;
+	color: white;
+
+}
+#email a{
+	
+	color: white;
+}
+#icons a{
+	
+	color: white;
 }
 .header{
 	margin: 0 auto;
@@ -52,6 +65,13 @@ img{
 	color: white !important;
 
 }
+.navbar1 a{
+	color: white;
+
+}
+.navbar1 a:visited {
+	text-decoration: underline;
+}
 .container h1{
 	color: white;
 }
@@ -59,7 +79,14 @@ img{
 	color:white;
 }
 .row{
-	background-color: lavenderblush;
+	background-color: rgba(85,85,85,0.5);
 	padding: 1%;
+
+}
+.homeheader{
+	font-size: 72px;
+	text-align: center;
+	margin-top: 10vh;
+	background-color: rgba(85,85,85,0.5);
 
 }
