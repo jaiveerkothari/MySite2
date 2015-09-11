@@ -4,7 +4,7 @@ body{
 	background-color: #009fff !important;
 	font-family: 'Roboto Mono', serif ;
 	font-size: 16px;
-	background: url(http://www.world-wallpaper.com/user-content/uploads/wall/o/47/Mumbai-Night-Skyscrapers-Wallpaper.jpg) no-repeat center center fixed; 
+	background: url(Mumbai-Night-Skyscrapers-Wallpaper.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -ms-background-size: cover;
@@ -60,4 +60,6 @@ img{
 }
 .row{
 	background-color: lavenderblush;
+	padding: 1%;
+
 }
