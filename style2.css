@@ -58,4 +58,6 @@ img{
 .container h2{
 	color:white;
 }
-
+.row{
+	background-color: lavenderblush;
+}
