@@ -2,7 +2,7 @@
 
 body{
 	background-color: #ffffff !important;
-	font-family: 'Roboto Mono', serif ;
+	font-family: 'Source Sans Pro', sans-serif ;
 	font-size: 16px;
 	background: url(Mumbai-Night-Skyscrapers-Wallpaper.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
@@ -25,12 +25,15 @@ color: white;
 }
 .navbar1 ul li{
 	display: inline;
+	margin-right: 1.2px;
+	margin-left: 1.2px;
 }
 img{
 	width: 100%;
 	height: 100%;
 	max-width: 240px;
 	max-height: 240px;
+	
 }
 #icons{
 	text-align: center;
@@ -59,14 +62,26 @@ img{
 	color: white;
 
 }
+.header h1{
+	
+	text-align: center;
+	
+
+}
 .navbar1{
 	margin: 0 auto;
 	text-align: center;
 	color: white !important;
 
 }
+.navbar1 ul{
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
 .navbar1 a{
 	color: white;
+	text-align: center;
 
 }
 .navbar1 a:visited {
