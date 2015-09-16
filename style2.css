@@ -33,7 +33,7 @@ img{
 	height: 100%;
 	max-width: 240px;
 	max-height: 240px;
-	
+
 }
 #icons{
 	text-align: center;
@@ -104,4 +104,9 @@ margin-right: auto;
 	margin-top: 10vh;
 	background-color: rgba(85,85,85,0.5);
 
+
+}
+p i{
+	margin-left: 5px;
+	margin-right: 5px;
 }
