@@ -65,6 +65,7 @@ img{
 .header h1{
 	
 	text-align: center;
+	margin: 10px auto;
 	
 
 }
@@ -78,6 +79,8 @@ img{
 text-align: center;
 margin-left: auto;
 margin-right: auto;
+padding-left: 0px;
+padding-right: 0px;
 }
 .navbar1 a{
 	color: white;
@@ -101,8 +104,7 @@ margin-right: auto;
 .homeheader{
 	font-size: 72px;
 	text-align: center;
-	margin-top: 10vh;
-	background-color: rgba(85,85,85,0.5);
+	
 
 
 }
