@@ -4,7 +4,7 @@ body{
 	background-color: #ffffff!important;
 	font-family: 'Source Sans Pro', sans-serif ;
 	font-size: 16px;
-	background: url(images/chicago_skyline.jpg) no-repeat center center fixed; 
+	/*background: url(images/chicago_skyline.jpg) no-repeat center center fixed; */
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-ms-background-size: cover;
@@ -110,5 +110,6 @@ p i{
 	margin-right: 5px;
 }
 a{
-	color: #66ff33;
+	/*color: #66ff33;*/
+	color: #0000ff;
 }
